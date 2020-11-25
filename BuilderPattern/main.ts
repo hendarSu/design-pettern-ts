@@ -6,7 +6,7 @@ import { Director } from "./Director";
  * initiates the construction process. The end result is retrieved from the
  * builder object.
  */
-function clientCode(director: Director) {
+const clientCode  = (director: Director) => {
     const builder = new ConcreteBuilder();
     director.setBuilder(builder);
 
