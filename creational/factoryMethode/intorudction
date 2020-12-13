@@ -1,0 +1,41 @@
+Kita sekarang akan belajar dan mengimplementasikan
+tenanta Factory Method.....
+
+yang pertama kita akan menentukan case tertentu untuk 
+mengambil sebuah contoh yg tepat dalam pengambilan keputusan menggunakan factory method.
+
+case yang akn kita ambil yaitu tenatang sistem logistik.
+
+untuk kasus logistik ini anggap saya kita punya tiga jenis logistik
+1. Darat
+2. Laut
+3. Udara.
+
+ok kita sekarang mencoba untuk menerapakn factory method didalam sistem logistik kita.
+
+oh iya kita implement codenya menggunakan TYPESCRIPT.
+
+step 1 kita akan membuat kelas abstrack.
+
+sekrang kita sudah membuat beberapa
+kelas concrete, kelas abstrak dan kelas interface.
+
+Untuk menjalankan kodingan yg sudah kita buat selanjutnya kita coba untuk membuat kelas client atau sering kita sebut class main.
+
+sekrang kita coba untuk menjalankannya menggunakan script di termintal.
+
+oke ada sedikit yg salah wkwkwk
+
+ternyta di kelas abstarcknya kita kurang menambahkan tanda (), jangan lupa setiap memangil procedur atau function di akhiri dengan tanda () contoh.
+
+logistik.opration() 
+
+sekrang kita coba run kembali.
+
+
+Terimakasih sudah menyempatkan menonton materi ini.
+semoga bermanfaat. 
+
+untuk contoh code nya saya sertakan link githubnya di deskripsi video. 
+
+sampai berjumpa di materi selanjutnya..
